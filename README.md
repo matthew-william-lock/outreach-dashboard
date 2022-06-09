@@ -1,6 +1,6 @@
 # Outreach Dashboard
 
-This repository serves as a placeholder for my work undertaken with a market and outreach company to develop a dashboard for client-facing use. During the project, I acted as the lead developer and co-project owner. The dashboard was developed from the ground up with the backend implemented using the Django framework. The front-end  was developed using HTML,CSS, Javascript and several Javascript libraries. Deployment tool used include Gunicorn and Nginx. 
+This repository serves as a placeholder for my work undertaken with a market and outreach company to develop a dashboard for client-facing use. During the project, I acted as the lead developer and co-project owner. The dashboard was developed from the ground up with the backend implemented using the Django framework. The front-end  was developed using HTML,CSS, Javascript and several Javascript libraries. Deployment tools used include Gunicorn and Nginx. 
 
 Functionalty of the dashboard include (but where not limited to):
 - Tracking of statstics related to outreach campaigns
